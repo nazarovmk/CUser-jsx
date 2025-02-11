@@ -161,4 +161,4 @@ function NewUserFrom({addUser}) {
   );
 }
 
-export default NewUserFrom;
+export default NewUserFrom
