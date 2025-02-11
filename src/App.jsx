@@ -4,9 +4,8 @@ import { useState } from "react";
 // componets
 import Navbar from "./components/navbar/Navbar";
 import Footer from "./components/footer/Footer";
-import UserList from "./components/userList/userList";
+import UserList from "./components/userList/UserList";
 import NewUserFrom from "./components/newuser/NewUserForm";
-import { use } from "react";
 
 function App() {
   const [showModal, setshowModal] = useState(false);
